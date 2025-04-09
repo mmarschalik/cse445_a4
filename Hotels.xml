@@ -1,1 +1,129 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Hotels xmlns=""
+		xmlns:bs=""
+		xmlns:xsi=""
+		xsi:schemaLocation="">
+	<Hotel Rating="4.2" NearestAirport="Sky Harbor">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address>
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7" NearestAirport="Sky Harbor">
+		<Name>Sanctuary Camelback Mountain</Name>
+		<Phone>855-421-3522</Phone>
+		
+		<Address>
+			<Number>5700</Number>
+			<Street>E McDonald Dr</Street>
+			<City>Paradise Valley</City>
+			<State>AZ</State>
+			<Zip>85253</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6" NearestAirport="Tucson International Airport">
+		<Name>Hacienda del Sol Guest Ranch Resort</Name>
+		<Phone>520-529-3500</Phone>
 
+		<Address>
+			<Number>5501</Number>
+			<Street>N Hacienda Del Sol Rd</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85718</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1" NearestAirport="Harry Reid International Airport">
+		<Name>Luxor</Name>
+		<Phone>702-262-4000</Phone>
+
+		<Address>
+			<Number>3900</Number>
+			<Street>S Las Vegas Blvd</Street>
+			<City>Las Vegas</City>
+			<State>NV</State>
+			<Zip>89119</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.7" NearestAirport="Flagstaff Pulliam Airport">
+		<Name>Hyatt Place Flagstaff</Name>
+		<Phone>928-433-6930</Phone>
+
+		<Address>
+			<Number>397</Number>
+			<Street>S Malpais Ln</Street>
+			<City>Flagstaff</City>
+			<State>AZ</State>
+			<Zip>86001</Zip>
+		</Address>
+	</Hotel>
+	<Hotel  NearestAirport="La Guardia">
+		<Name>Hard Rock Hotel</Name>
+		<Phone>212-970-1200</Phone>
+
+		<Address>
+			<Number>159</Number>
+			<Street>W 48th St</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10036</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4" NearestAirport="Miami International Airport">
+		<Name>W Miami</Name>
+		<Phone>305-503-4400</Phone>
+		<Phone>866-837-4193</Phone>
+
+		<Address>
+			<Number>485</Number>
+			<Street>Brickell Ave</Street>
+			<City>Miami</City>
+			<State>FL</State>
+			<Zip>33131</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5" NearestAirport="San Diego International Airport">
+		<Name>Manchester Grand Hyatt</Name>
+		<Phone>619-232-1234</Phone>
+
+		<Address>
+			<Number>1</Number>
+			<Street>Marketplace Pl</Street>
+			<City>San Diego</City>
+			<State>CA</State>
+			<Zip>92101</Zip>
+		</Address>
+	</Hotel>
+	<Hotel  NearestAirport="Chicago O'Hare">
+		<Name>InterContinental Chicago</Name>
+		<Phone>312-944-4100</Phone>
+		<Phone>888-424-6835</Phone>
+
+		<Address>
+			<Number>505</Number>
+			<Street>N Michigan Ave</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60611</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7" NearestAirport="LAX">
+		<Name>The Beverly Hills Hotel</Name>
+		<Phone>310-276-2251</Phone>
+
+		<Address>
+			<Number>9641</Number>
+			<Street>W Sunset Blvd</Street>
+			<City>Beverly Hills</City>
+			<State>CA</State>
+			<Zip>90210</Zip>
+		</Address>
+	</Hotel>
+
+</Hotels>
