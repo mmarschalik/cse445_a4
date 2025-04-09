@@ -20,9 +20,9 @@ namespace ConsoleApp1
 
     public class Program
     {
-        public static string xmlURL = "https://mmarschalik.github.io/cse445_a4/Hotels.xml";
-        public static string xmlErrorURL = "https://mmarschalik.github.io/cse445_a4/HotelsErrors.xml";
-        public static string xsdURL = "https://mmarschalik.github.io/cse445_a4/Hotels.xsdL";
+        public static string xmlURL = "https://github.com/mmarschalik/cse445_a4/blob/main/Hotels.xml";
+        public static string xmlErrorURL = "https://mmarschalik.github.io/cse445_a4/blob/main/HotelsErrors.xml";
+        public static string xsdURL = "https://mmarschalik.github.io/cse445_a4/blob/main/Hotels.xsdL";
 
         public static void Main(string[] args)
         {
